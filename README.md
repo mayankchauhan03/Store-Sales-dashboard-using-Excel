@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive data analysis dashboard for **Mayank Store**, designed to provide actionable insights into sales performance, product trends, and customer behavior. The dashboard is built using Excel with a clean dark-themed interface for better visual comfort.
 
-## 📊 Overview
+## 📊 Overview 
 
 The dashboard includes:
 
@@ -11,6 +11,9 @@ The dashboard includes:
 - 👥 **Customer Insights** – Analyze customer demographics and purchase patterns.
 - 💰 **Revenue Breakdown** – Monitor revenue sources and category contributions.
 - 🧾 **Inventory Overview** – View current stock levels and restocking needs.
+
+Overview of Dashsboard :
+![image](https://github.com/user-attachments/assets/4218b99e-9b5b-4daf-a05f-9ad5904191eb)
 
 ## 🖥️ File Structure
 📁 Mayank-Store-Dashboard/
